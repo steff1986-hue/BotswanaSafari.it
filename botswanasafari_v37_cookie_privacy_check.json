@@ -1,0 +1,22 @@
+{
+  "files": {
+    "botswanasafari_v37.html": 8780552,
+    "botswanasafari_index_final_v37.html": 8780552
+  },
+  "sha256_prefix": "f10e5f13290fa4ad",
+  "checks": {
+    "cookie_controller_typo_fixed": true,
+    "cookie_banner_markup": true,
+    "cookie_revisit_button": true,
+    "privacy_modal": true,
+    "cookie_modal": true,
+    "form_privacy_checkbox": true,
+    "google_consent_default_denied": true,
+    "google_consent_update": true,
+    "no_false_no_analytics_claim": true,
+    "ga_present": true,
+    "web3forms_present": true,
+    "sharing_present": true
+  },
+  "all_checks_passed": true
+}
